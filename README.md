@@ -1,1 +1,1 @@
-# MultiChain
+# LocalChain
