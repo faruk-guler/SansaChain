@@ -1,4 +1,5 @@
 # SansaDAO🌿 Peer to Peer Open and Secret Chain Project
+<img src="https://github.com/faruk-guler/SansaDAO/blob/main/trilemma.png" alt="alt text" width="380" height="230">
 
 ```sh
 Name:
