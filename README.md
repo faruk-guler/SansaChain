@@ -1,4 +1,4 @@
-# SansaDAO🌿 Peer to Peer OpenChain
+# SansaDAO🌿 Peer to Peer Open and Secret Chain
 
 - Merkeziyetsiz Oylama Sistemi (Decentralized Voting System)
 - Merkeziyetsiz Finans (DeFi - Decentralized Finance)
