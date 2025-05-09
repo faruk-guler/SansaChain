@@ -1,4 +1,4 @@
-# SansaDAO🌿 Peer to Peer Open and Secret Chain Project v.2
+# SansaDAO🌿 Peer to Peer Open and Secret Chain Project
 
 ```sh
 Name:
