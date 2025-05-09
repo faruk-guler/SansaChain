@@ -10,7 +10,7 @@ Dao:
 - Decentralized Voting and Governance
 - Decentralized Identity
 - Decentralized Marketplace
-- MDecentralized Storage
+- Decentralized Storage
 - Decentralized Donation
 - Decentralized Law
 - Decentralized Domain System (DNS)
