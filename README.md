@@ -5,7 +5,7 @@ Name:
 Version: 2
 Dao:
 ```
-- Decentralized Voting System
+- Decentralized Voting and Governance
 - Decentralized Finance (DeFi)
 - Decentralized Identity
 - Decentralized Marketplace
