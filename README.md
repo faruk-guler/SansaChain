@@ -6,8 +6,8 @@ Name:
 Version: 2
 Dao:
 ```
-- Decentralized Voting and Governance
 - Decentralized Finance (DeFi)
+- Decentralized Voting and Governance
 - Decentralized Identity
 - Decentralized Marketplace
 - MDecentralized Storage
