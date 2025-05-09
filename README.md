@@ -1,8 +1,10 @@
 # SansaDAO🌿 Peer to Peer Open and Secret Chain Project v.2
 
---sh
-version: 2
----
+```sh
+Name:
+Version: 2
+Dao:
+```
 - Merkeziyetsiz Oylama Sistemi (Decentralized Voting System)
 - Merkeziyetsiz Finans (DeFi - Decentralized Finance)
 - Merkeziyetsiz Kimlik (Decentralized Identity)
