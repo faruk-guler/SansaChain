@@ -6,4 +6,7 @@
 - Merkeziyetsiz Pazaryeri (Decentralized Marketplace)
 - Merkeziyetsiz Depolama (Decentralized Storage)
 - Merkeziyetsiz Sosyal Medya (Decentralized Social Media)
-- 
+-
+-
+-
+- etc
