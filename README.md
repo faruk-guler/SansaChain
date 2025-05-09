@@ -5,5 +5,11 @@
 - Merkeziyetsiz Kimlik (Decentralized Identity)
 - Merkeziyetsiz Pazaryeri (Decentralized Marketplace)
 - Merkeziyetsiz Depolama (Decentralized Storage)
+- Merkeziyetsiz Bağış (Decentralized Donation)
+- Merkeziyetsiz Yasa (Decentralized Law)
+- Merkeziyetsiz Sağlık (Decentralized Healthcare)
+- Merkeziyetsiz Bilgi ve Haber (Decentralized Information and News)
+- Merkeziyetsiz Yeşil Enerji (Decentralized Renewable Energy)
 - Merkeziyetsiz Sosyal Medya (Decentralized Social Media)
+- Merkeziyetsiz Bilgi ve İtiraf (Decentralized Information and Confession)
 - and more.
