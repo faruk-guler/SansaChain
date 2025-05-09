@@ -1,4 +1,4 @@
-# FarmFlow  Peer to Peer Localchain
+# SansaDAO🌿 Peer to Peer OpenChain
 
 - Merkeziyetsiz Oylama Sistemi (Decentralized Voting System)
 - Merkeziyetsiz Finans (DeFi - Decentralized Finance)
