@@ -7,6 +7,7 @@
 - Merkeziyetsiz Depolama (Decentralized Storage)
 - Merkeziyetsiz Bağış (Decentralized Donation)
 - Merkeziyetsiz Yasa (Decentralized Law)
+- Merkeziyetsiz Domain Sistemi (DNS)
 - Merkeziyetsiz Sağlık (Decentralized Healthcare)
 - Merkeziyetsiz Bilgi ve Haber (Decentralized Information and News)
 - Merkeziyetsiz Yeşil Enerji (Decentralized Renewable Energy)
